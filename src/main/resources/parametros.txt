@@ -1,0 +1,15 @@
+{
+	"home" : "http://localhost",
+	"login" : "?ojr=login",
+	
+	"email" : {
+		"host" : "smtp.gmail.com",
+		"startTTLS" : "true",
+		"port" : "587",
+		"sender" : "pepitopruebasadc@gmail.com",
+		"serverUser" : "pepitopruebasadc@gmail.com",
+		"auth" : "true",
+		"pwd" : "1234abcd_A",
+		"fallback" : "true"
+	}	
+}
